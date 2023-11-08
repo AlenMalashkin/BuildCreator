@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7aadec2d2f0146649f4b2c327cec433d, type: 3}
+  m_Name: ItemsStaticData
+  m_EditorClassIdentifier: 
+  boots:
+  - Type: 0
+    ItemIcon: {fileID: -2054344001, guid: 7bd59eb410568664eb13cd5631fd82e2, type: 3}
+  - Type: 1
+    ItemIcon: {fileID: 878541961, guid: 7bd59eb410568664eb13cd5631fd82e2, type: 3}
+  - Type: 2
+    ItemIcon: {fileID: -1629153019, guid: 7bd59eb410568664eb13cd5631fd82e2, type: 3}
+  - Type: 3
+    ItemIcon: {fileID: -652610489, guid: 7bd59eb410568664eb13cd5631fd82e2, type: 3}
+  - Type: 4
+    ItemIcon: {fileID: -1629153019, guid: 7bd59eb410568664eb13cd5631fd82e2, type: 3}
+  - Type: 5
+    ItemIcon: {fileID: -1765988585, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  supItems:
+  - Type: 28
+    ItemIcon: {fileID: -700314123, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 29
+    ItemIcon: {fileID: -521069041, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 30
+    ItemIcon: {fileID: 532466973, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 31
+    ItemIcon: {fileID: 551266778, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 32
+    ItemIcon: {fileID: 294107410, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 33
+    ItemIcon: {fileID: 1022525431, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 34
+    ItemIcon: {fileID: 1042723897, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 35
+    ItemIcon: {fileID: -1519803255, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 36
+    ItemIcon: {fileID: -1736283569, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 37
+    ItemIcon: {fileID: -833392804, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 38
+    ItemIcon: {fileID: -1120176886, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 39
+    ItemIcon: {fileID: 1159661364, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 40
+    ItemIcon: {fileID: -1792499229, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 41
+    ItemIcon: {fileID: 1684197200, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 42
+    ItemIcon: {fileID: 1824372809, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 43
+    ItemIcon: {fileID: 2138025850, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 44
+    ItemIcon: {fileID: -1948868162, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 69
+    ItemIcon: {fileID: 297157993, guid: 7bd59eb410568664eb13cd5631fd82e2, type: 3}
+  - Type: 70
+    ItemIcon: {fileID: 1243700353, guid: 7bd59eb410568664eb13cd5631fd82e2, type: 3}
+  - Type: 71
+    ItemIcon: {fileID: 1852559161, guid: 7bd59eb410568664eb13cd5631fd82e2, type: 3}
+  - Type: 72
+    ItemIcon: {fileID: -100711752, guid: 7bd59eb410568664eb13cd5631fd82e2, type: 3}
+  - Type: 73
+    ItemIcon: {fileID: -2062887591, guid: 7bd59eb410568664eb13cd5631fd82e2, type: 3}
+  - Type: 77
+    ItemIcon: {fileID: -1195794815, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 88
+    ItemIcon: {fileID: -1250772358, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  coreItems:
+  - Type: 5
+    ItemIcon: {fileID: 1162188840, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 6
+    ItemIcon: {fileID: 816403941, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 7
+    ItemIcon: {fileID: -2037026500, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 8
+    ItemIcon: {fileID: 77292435, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 9
+    ItemIcon: {fileID: -950660147, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 10
+    ItemIcon: {fileID: 250729740, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 11
+    ItemIcon: {fileID: 1888702092, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 12
+    ItemIcon: {fileID: -12530819, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 13
+    ItemIcon: {fileID: -1760707500, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 14
+    ItemIcon: {fileID: 1729870940, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 15
+    ItemIcon: {fileID: -1180081611, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 16
+    ItemIcon: {fileID: 2016603504, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 17
+    ItemIcon: {fileID: -1189236805, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 18
+    ItemIcon: {fileID: 1610906607, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 19
+    ItemIcon: {fileID: 1541949173, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 20
+    ItemIcon: {fileID: 1135904153, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 21
+    ItemIcon: {fileID: -1056377930, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 22
+    ItemIcon: {fileID: 1594039742, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 23
+    ItemIcon: {fileID: -799755375, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 24
+    ItemIcon: {fileID: -1250700989, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 25
+    ItemIcon: {fileID: 1748739110, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 26
+    ItemIcon: {fileID: -890774169, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 27
+    ItemIcon: {fileID: 614108872, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 66
+    ItemIcon: {fileID: 1037366690, guid: 7bd59eb410568664eb13cd5631fd82e2, type: 3}
+  - Type: 67
+    ItemIcon: {fileID: 1987434940, guid: 7bd59eb410568664eb13cd5631fd82e2, type: 3}
+  - Type: 62
+    ItemIcon: {fileID: -1417676762, guid: 7bd59eb410568664eb13cd5631fd82e2, type: 3}
+  - Type: 64
+    ItemIcon: {fileID: 1577025875, guid: 7bd59eb410568664eb13cd5631fd82e2, type: 3}
+  - Type: 65
+    ItemIcon: {fileID: -512287678, guid: 7bd59eb410568664eb13cd5631fd82e2, type: 3}
+  - Type: 63
+    ItemIcon: {fileID: 1646974819, guid: 7bd59eb410568664eb13cd5631fd82e2, type: 3}
+  - Type: 68
+    ItemIcon: {fileID: 571153536, guid: 7bd59eb410568664eb13cd5631fd82e2, type: 3}
+  universalItems:
+  - Type: 45
+    ItemIcon: {fileID: -1551922851, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 46
+    ItemIcon: {fileID: -647232327, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 47
+    ItemIcon: {fileID: -2027329656, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 48
+    ItemIcon: {fileID: -1087283474, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 49
+    ItemIcon: {fileID: 660612975, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 50
+    ItemIcon: {fileID: 455524578, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 51
+    ItemIcon: {fileID: -1378091478, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 52
+    ItemIcon: {fileID: 118734594, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 53
+    ItemIcon: {fileID: 705397284, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 54
+    ItemIcon: {fileID: -592633247, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 55
+    ItemIcon: {fileID: 484379246, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 56
+    ItemIcon: {fileID: -1063225926, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 57
+    ItemIcon: {fileID: 320347677, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 58
+    ItemIcon: {fileID: 1721210215, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 59
+    ItemIcon: {fileID: -1851016666, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 60
+    ItemIcon: {fileID: 181515306, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 61
+    ItemIcon: {fileID: -741003512, guid: e24ead84a78b25144b57be8fe9f803a2, type: 3}
+  - Type: 74
+    ItemIcon: {fileID: -1329180449, guid: 7bd59eb410568664eb13cd5631fd82e2, type: 3}
+  - Type: 75
+    ItemIcon: {fileID: 770070080, guid: 7bd59eb410568664eb13cd5631fd82e2, type: 3}
+  - Type: 76
+    ItemIcon: {fileID: 337250575, guid: 7bd59eb410568664eb13cd5631fd82e2, type: 3}

@@ -1,0 +1,343 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 532cb168ac794e849a29acc076936c1e, type: 3}
+  m_Name: HeroesStaticData
+  m_EditorClassIdentifier: 
+  heroCardPrefab: {fileID: 3078818395870630702, guid: 37dd66d2304b7704c847e4f7bd39a3e2, type: 3}
+  heroData:
+  - Type: 0
+    HeroIcon: {fileID: 493623931, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Shadow Fiend
+  - Type: 1
+    HeroIcon: {fileID: 1677311752, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Centaur
+  - Type: 2
+    HeroIcon: {fileID: -1436342958, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Phoenix
+  - Type: 3
+    HeroIcon: {fileID: -197131728, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Shadow Shaman
+  - Type: 4
+    HeroIcon: {fileID: -1787606506, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Enchantres
+  - Type: 5
+    HeroIcon: {fileID: -879021577, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Wraigh King
+  - Type: 6
+    HeroIcon: {fileID: 485080578, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Skywrath Mage
+  - Type: 7
+    HeroIcon: {fileID: 617877140, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Spirit Breaker
+  - Type: 8
+    HeroIcon: {fileID: 925538229, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Zeus
+  - Type: 9
+    HeroIcon: {fileID: -932092712, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Vengeful Spirit
+  - Type: 10
+    HeroIcon: {fileID: 1988126441, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Ember Spirit
+  - Type: 11
+    HeroIcon: {fileID: 1090418135, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Chaos Knight
+  - Type: 12
+    HeroIcon: {fileID: -2072646868, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Elder Titan
+  - Type: 13
+    HeroIcon: {fileID: 1179434326, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Keeper of the Light
+  - Type: 14
+    HeroIcon: {fileID: 899900648, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Treant Protector
+  - Type: 15
+    HeroIcon: {fileID: 1518368094, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Undying
+  - Type: 16
+    HeroIcon: {fileID: -442124122, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Tinker
+  - Type: 17
+    HeroIcon: {fileID: 1586912095, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Lich
+  - Type: 18
+    HeroIcon: {fileID: 505626499, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Morph
+  - Type: 19
+    HeroIcon: {fileID: 1579578887, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Enigma
+  - Type: 20
+    HeroIcon: {fileID: 246783980, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Queen Of Pain
+  - Type: 21
+    HeroIcon: {fileID: 210132832, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Bounty Hunter
+  - Type: 22
+    HeroIcon: {fileID: -2026364877, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Beastmaster
+  - Type: 23
+    HeroIcon: {fileID: 476540594, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Phantom Lancer
+  - Type: 24
+    HeroIcon: {fileID: -1558243635, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Windranger
+  - Type: 25
+    HeroIcon: {fileID: -493619867, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Terrorblade
+  - Type: 26
+    HeroIcon: {fileID: 1193933814, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Sven
+  - Type: 27
+    HeroIcon: {fileID: 917397047, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Meepo
+  - Type: 28
+    HeroIcon: {fileID: -1205675721, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Gerocopter
+  - Type: 29
+    HeroIcon: {fileID: -272070326, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Luna
+  - Type: 30
+    HeroIcon: {fileID: 1666250842, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Doom
+  - Type: 31
+    HeroIcon: {fileID: -380594898, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Legion Comander
+  - Type: 32
+    HeroIcon: {fileID: -95288835, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Lina
+  - Type: 33
+    HeroIcon: {fileID: 1471456588, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Lone Druid
+  - Type: 34
+    HeroIcon: {fileID: -685671790, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Pudge
+  - Type: 35
+    HeroIcon: {fileID: 1088558656, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Rubick
+  - Type: 36
+    HeroIcon: {fileID: -1497767590, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Nix Assasin
+  - Type: 37
+    HeroIcon: {fileID: 1171931624, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Kunka
+  - Type: 38
+    HeroIcon: {fileID: 1757260174, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Visage
+  - Type: 39
+    HeroIcon: {fileID: -2055214805, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Disruptor
+  - Type: 40
+    HeroIcon: {fileID: -1317732947, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Bloodseeker
+  - Type: 41
+    HeroIcon: {fileID: -222096422, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Bristleback
+  - Type: 42
+    HeroIcon: {fileID: 789458117, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Huskar
+  - Type: 43
+    HeroIcon: {fileID: -1305610304, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Alchimeist
+  - Type: 44
+    HeroIcon: {fileID: -1648024746, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Necrophous
+  - Type: 45
+    HeroIcon: {fileID: 1755759774, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Weaver
+  - Type: 46
+    HeroIcon: {fileID: -1123432504, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Slark
+  - Type: 47
+    HeroIcon: {fileID: 166473317, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Razor
+  - Type: 48
+    HeroIcon: {fileID: 1992563707, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Drow Ranger
+  - Type: 49
+    HeroIcon: {fileID: 1561806708, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Witch Doctor
+  - Type: 50
+    HeroIcon: {fileID: 1575877736, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Lifestealer
+  - Type: 51
+    HeroIcon: {fileID: -640282912, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Troll Warlord
+  - Type: 52
+    HeroIcon: {fileID: 347255001, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Lycan
+  - Type: 53
+    HeroIcon: {fileID: -596074061, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Sand King
+  - Type: 54
+    HeroIcon: {fileID: 1040465869, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Tiny
+  - Type: 55
+    HeroIcon: {fileID: 1955609469, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Winter Wyvern
+  - Type: 56
+    HeroIcon: {fileID: 437588346, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Storm Spirit
+  - Type: 57
+    HeroIcon: {fileID: 660436851, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Magnus
+  - Type: 58
+    HeroIcon: {fileID: 168714586, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Slardar
+  - Type: 59
+    HeroIcon: {fileID: 2141674242, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Tusk
+  - Type: 60
+    HeroIcon: {fileID: -175853580, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Shadow Demon
+  - Type: 61
+    HeroIcon: {fileID: 1453704276, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Earthshaker
+  - Type: 62
+    HeroIcon: {fileID: 515041436, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Juggernaut
+  - Type: 63
+    HeroIcon: {fileID: -616638616, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Pugna
+  - Type: 64
+    HeroIcon: {fileID: -335517465, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Outworld Destroyer
+  - Type: 65
+    HeroIcon: {fileID: 703882573, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Chen
+  - Type: 66
+    HeroIcon: {fileID: -522597990, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Crystal Mainden
+  - Type: 67
+    HeroIcon: {fileID: -1804155106, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Leshrak
+  - Type: 68
+    HeroIcon: {fileID: -53110201, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Ogre Magi
+  - Type: 69
+    HeroIcon: {fileID: 1948454090, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Anti-Mage
+  - Type: 70
+    HeroIcon: {fileID: 1774907197, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Lion
+  - Type: 71
+    HeroIcon: {fileID: 881048798, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Dragon Knight
+  - Type: 72
+    HeroIcon: {fileID: 730550575, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Venomancer
+  - Type: 73
+    HeroIcon: {fileID: 1779605707, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Viper
+  - Type: 74
+    HeroIcon: {fileID: 167676365, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Tidehunter
+  - Type: 75
+    HeroIcon: {fileID: -771800697, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Oracle
+  - Type: 76
+    HeroIcon: {fileID: 803297896, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Jakiro
+  - Type: 77
+    HeroIcon: {fileID: 135106801, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Naga Siren
+  - Type: 78
+    HeroIcon: {fileID: -216327878, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Night Stalker
+  - Type: 79
+    HeroIcon: {fileID: -1391960229, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Silencer
+  - Type: 80
+    HeroIcon: {fileID: 1373440100, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Warlock
+  - Type: 81
+    HeroIcon: {fileID: -1866510111, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Timbersaw
+  - Type: 82
+    HeroIcon: {fileID: -1598748828, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Clinkz
+  - Type: 83
+    HeroIcon: {fileID: 107737615, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Earth Spirit
+  - Type: 84
+    HeroIcon: {fileID: 402949945, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Death Prophet
+  - Type: 85
+    HeroIcon: {fileID: 869731025, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Phantom Assasin
+  - Type: 86
+    HeroIcon: {fileID: 1922306901, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Mirana
+  - Type: 87
+    HeroIcon: {fileID: 1164480707, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Antient Apparation
+  - Type: 88
+    HeroIcon: {fileID: -1809733697, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: IO
+  - Type: 89
+    HeroIcon: {fileID: 2015757876, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Bane
+  - Type: 90
+    HeroIcon: {fileID: 1004593029, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Axe
+  - Type: 91
+    HeroIcon: {fileID: 1352712052, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Clockwerk
+  - Type: 92
+    HeroIcon: {fileID: -115494512, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Batrider
+  - Type: 93
+    HeroIcon: {fileID: 669365842, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Natures's Prophet
+  - Type: 94
+    HeroIcon: {fileID: -1802085654, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Medusa
+  - Type: 95
+    HeroIcon: {fileID: -1593211846, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Omniknight
+  - Type: 96
+    HeroIcon: {fileID: 1841534794, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Brewmaster
+  - Type: 97
+    HeroIcon: {fileID: -701270863, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Sniper
+  - Type: 98
+    HeroIcon: {fileID: 298334078, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Abadon
+  - Type: 99
+    HeroIcon: {fileID: -364684409, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Riki
+  - Type: 100
+    HeroIcon: {fileID: -1558916538, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Invoker
+  - Type: 101
+    HeroIcon: {fileID: 163086204, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Faceless Void
+  - Type: 102
+    HeroIcon: {fileID: 1431495691, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Dazzle
+  - Type: 103
+    HeroIcon: {fileID: 1987687109, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Templar Assasin
+  - Type: 104
+    HeroIcon: {fileID: -345176098, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Spectrate
+  - Type: 105
+    HeroIcon: {fileID: 1283006818, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Ursa
+  - Type: 106
+    HeroIcon: {fileID: -1546505716, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Broodmother
+  - Type: 107
+    HeroIcon: {fileID: -1679825217, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Dark Seer
+  - Type: 108
+    HeroIcon: {fileID: 312386576, guid: 72a119741b5ba6d40a812cca05b95410, type: 3}
+    HeroName: Puck
